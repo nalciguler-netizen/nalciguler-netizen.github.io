@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.tornaly.app",
-        "sha256_cert_fingerprints": ["A9:5D:F0:56:7F:7D:11:AA:0D:E1:82:ED:04:44:71:B6:1A:84:75:48:22:5F:BC:BF:CB:CF:92:5D:B3:E4:8E:49"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yolhava.app",
+      "sha256_cert_fingerprints": [
+        "FD:55:CF:B7:D9:31:DF:FA:77:33:FB:A2:0A:F2:59:68:49:81:B2:D7:50:5B:3B:68:DA:C9:AE:9C:90:BF:D8:91"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tornaly.app",
+      "sha256_cert_fingerprints": [
+        "A9:5D:F0:56:7F:7D:11:AA:0D:E1:82:ED:04:44:71:B6:1A:84:75:48:22:5F:BC:BF:CB:CF:92:5D:B3:E4:8E:49"
+      ]
+    }
+  }
+]
