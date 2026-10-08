@@ -22,5 +22,17 @@
         "A9:5D:F0:56:7F:7D:11:AA:0D:E1:82:ED:04:44:71:B6:1A:84:75:48:22:5F:BC:BF:CB:CF:92:5D:B3:E4:8E:49"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sahnely.app",
+      "sha256_cert_fingerprints": [
+        "93:3B:AD:80:33:A8:18:48:F6:7C:6F:56:30:AE:98:3C:65:86:84:CF:7E:0A:B2:49:A3:BB:8A:41:56:E1:F6:70"
+      ]
+    }
   }
 ]
