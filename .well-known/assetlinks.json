@@ -35,4 +35,12 @@
       ]
     }
   }
-]
+,
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hukukplatformu.app",
+      "sha256_cert_fingerprints": ["28:B6:E7:BE:54:D4:47:31:44:C8:6A:7A:BD:90:33:21:84:5D:BF:EC:4C:28:8B:26:53:2D:32:91:B2:DC:5C:20"]
+    }
+  }]
